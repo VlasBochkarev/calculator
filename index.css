@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #500a23b6;
+}
+
+.vlas-calculator {
+    background-color: #52b3e067;
+    margin: auto;
+    text-align: center;
+    width: 500px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.vlas-calculator .opiration-block button {
+    height: 40px;
+    width: 40px;
+}
+
+.vlas-calculator .inputs-block .input-block label {
+    display: block;
+}
+
+.vlas-calculator .inputs-block .input-block {
+    display: inline-block;
+    padding: 10px;
+}
